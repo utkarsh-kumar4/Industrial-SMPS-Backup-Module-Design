@@ -1,0 +1,13 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-F_Cu.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-B_Cu.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-F_Paste.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-B_Paste.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-F_Silkscreen.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-B_Silkscreen.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-F_Mask.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-B_Mask.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/homefolder/Desktop/KiCad Project/Project5/Untitled/Project5/Gerber Files/Project5-job.gbrjob'.
+Info: Done.
+Info: Done.
