@@ -1,0 +1,36 @@
+Info: Processing symbol 'Cbulk1:Capacitor_SMD:C_1210_3225Metric'.
+Info: Total warnings: 0, errors: 4.
+Info: Processing symbol 'Cff1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'Cin1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'Cnoise1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'Cout1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'H1:'.
+Info: Processing symbol 'H2:'.
+Info: Processing symbol 'H3:'.
+Info: Processing symbol 'H4:'.
+Info: Processing symbol 'Cbulk2:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U1:Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias'.
+Add Cff1 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Add Cbulk2 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Add Cin1 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Cnoise1 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Add Cout1 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Add J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Add R1 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Add R2 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Add Cbulk1 (footprint 'Capacitor_SMD:C_1210_3225Metric').
+Add U1 (footprint 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias').
+
+
+Error: Cannot add H1 (no footprint assigned).
+Error: Cannot add H3 (no footprint assigned).
+Error: Cannot add H4 (no footprint assigned).
+Error: Cannot add H2 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 4.
