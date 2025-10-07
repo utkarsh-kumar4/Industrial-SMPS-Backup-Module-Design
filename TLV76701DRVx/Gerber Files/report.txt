@@ -1,0 +1,12 @@
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-F_Cu.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-B_Cu.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-F_Paste.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-B_Paste.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-F_Silkscreen.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-B_Silkscreen.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-F_Mask.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-B_Mask.gbr'.
+Plotted to '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/homefolder/Desktop/KiCad Project/Project6/Gerber Files/Project6-job.gbrjob'.
+Info: Done.
+Info: Done.
