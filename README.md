@@ -88,5 +88,6 @@ This design can be extended to include:
 <img src="https://github.com/utkarsh-kumar4/Industrial-SMPS-Backup-Module-Design/blob/main/TLV76701DRVx/PCB%20Layout.png" alt="PCB Layout">
 <h3>🔹 3D Board View</h3>
 <img src="https://github.com/utkarsh-kumar4/Industrial-SMPS-Backup-Module-Design/blob/main/TLV76701DRVx/3D%20Board%20View.png" alt="3D Board View">
+
 ## Author 👤
 [Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
