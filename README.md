@@ -72,14 +72,14 @@ This design can be extended to include:
 </ul>
 
 <h2>📷 Project Images</h2>
-<h2>TLV61048</h2>
+<h2>TLV61048: Boost Converter</h2>
 <h3>🔹 Schematic Design</h3>
 <img src="https://github.com/utkarsh-kumar4/Industrial-SMPS-Backup-Module-Design/blob/main/TLV61048/Schematic%20Design.png" alt="Schematic Design">
 <h3>🔹 PCB Layout</h3>
 <img src="https://github.com/utkarsh-kumar4/Industrial-SMPS-Backup-Module-Design/blob/main/TLV61048/PCB%20Layout.png" alt="PCB Layout">
 <h3>🔹 3D Board View</h3>
 <img src="https://github.com/utkarsh-kumar4/Industrial-SMPS-Backup-Module-Design/blob/main/TLV61048/3D%20Board%20View.png" alt="3D Board View">
-<h2>TLV7607DRVx</h2>
+<h2>TLV7607DRVx: LDO Regulator</h2>
 <h3>🔹 Linear Regulator</h3>
 <img src="https://github.com/utkarsh-kumar4/Industrial-SMPS-Backup-Module-Design/blob/main/TLV76701DRVx/Linear%20Regulator.png" alt="Linear Regulator">
 <h3>🔹 Schematic Design</h3>
